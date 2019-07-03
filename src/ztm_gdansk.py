@@ -33,4 +33,4 @@ for ztm_row in ztm_rider['Vehicles']:
     ztm_cluster.add_child(ztm_marker)
 
 ztm_map.add_child(ztm_cluster)
-ztm_map.save('ztm_map.html')
+ztm_map.save('results\ztm_map.html')
